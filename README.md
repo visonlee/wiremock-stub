@@ -1,2 +1,0 @@
-# wiremock-stub
-wiremock-stub
